@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 84,
+    "left": 0,
+    "width": 1024,
+    "height": 1365,
+    "isRotated": true,
+    "originalWidth": 1024,
+    "originalHeight": 1536
+  },
+  "imagePath": "image-targets/Copilot_20250816_132057_luminance.png",
+  "metadata": null,
+  "name": "Copilot_20250816_132057",
+  "resources": {
+    "originalImage": "Copilot_20250816_132057_original.png",
+    "croppedImage": "Copilot_20250816_132057_cropped.png",
+    "thumbnailImage": "Copilot_20250816_132057_thumbnail.png",
+    "luminanceImage": "Copilot_20250816_132057_luminance.png"
+  },
+  "created": 1782560417915,
+  "updated": 1782560490322
+}
